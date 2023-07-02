@@ -1,0 +1,26 @@
+# GET http://localhost:3001/users
+
+
+
+
+
+# GET http://localhost:3001/users/647f4d6ec1263a8b356533a9
+
+# DELETE http://localhost:3001/users/647f4d6ec1263a8b356533a9
+
+
+POST http://localhost:3001/users HTTP/1.1
+Content-Type: application/json
+    {
+    "nombre":"Miguel",
+    "apellido_paterno":"Renteria",
+    "apellido_materno":"Diaz",
+    "matricula":93839983,
+    "rfc":"",
+    "email":"",
+    "password":"MeGustaElPene69",
+    "token":""
+    }
+    
+
+
